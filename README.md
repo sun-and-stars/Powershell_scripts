@@ -8,4 +8,4 @@ This script has a function which tries to copy the swapfile,hiberfil.sys and pag
 
 
 The script tries to gather information about system global enviorment variables, users present on the system, shares connected to the system, commands which are run at system startup, processes running on the system, services running on the system, lists ports which are being utilised and tries to copy some system '.sys' files related to memory(not working at the moment).
-A the results are intended to be exported to an txt file.
+All the results are intended to be exported to an txt file.
