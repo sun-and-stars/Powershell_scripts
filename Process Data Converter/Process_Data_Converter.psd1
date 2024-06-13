@@ -18,7 +18,7 @@ ModuleVersion = '0.0.1'
 # CompatiblePSEditions = @()
 
 # ID used to uniquely identify this module
-GUID = '0ac3c460-a02d-40db-ab1e-53bfa78557fa'
+GUID = 'a9517bf7-e22c-42be-9ddf-32965ef54b80'
 
 # Author of this module
 Author = 'Someone'
@@ -33,7 +33,7 @@ Copyright = '(c) Someone. All rights reserved.'
 # Description = ''
 
 # Minimum version of the PowerShell engine required by this module
-# PowerShellVersion = '5.1'
+PowerShellVersion = '5.1'
 
 # Name of the PowerShell host required by this module
 # PowerShellHostName = ''
